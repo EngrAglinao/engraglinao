@@ -847,19 +847,19 @@ h3.my-profession {
     }
 
     h3.hello {
-        font-size: 40px;
+        font-size: 36px;
     }
 
     h3.hello span {
-        font-size: 48px;
+        font-size: 40px;
     }
     
     h3.my-profession {
-        font-size: 40px;
+        font-size: 36px;
     }
 
     .home-info p {
-        font-size: 32px;
+        font-size: 28px;
     }
 }
 
@@ -877,18 +877,18 @@ h3.my-profession {
     }
 
     h3.hello {
-        font-size: 30px;
+        font-size: 25px;
     }
 
     h3.hello span {
-        font-size: 35px;
+        font-size: 30px;
     }
     
     h3.my-profession {
-        font-size: 30px;
+        font-size: 25px;
     }
 
     .home-info p {
-        font-size: 24px;
+        font-size: 18px;
     }
 }
